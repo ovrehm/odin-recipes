@@ -5,4 +5,10 @@
 a.recipe {
     font-size: 2em;
     font-weight: bold;
+    color: black;
+}
+
+a.recipe:hover {
+    background-color: darkgoldenrod;
+    cursor:alias;
 }
